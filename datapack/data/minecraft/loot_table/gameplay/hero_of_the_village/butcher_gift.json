@@ -27,9 +27,9 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:feather",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:custom_model_data": {"strings": [ "brown_bear" ] },
                 "minecraft:custom_name": { "text": "Brown Bear", "italic": false, "color": "white" },
@@ -64,7 +64,7 @@
           ]
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:gameplay/hero_of_the_village/butcher_gift"

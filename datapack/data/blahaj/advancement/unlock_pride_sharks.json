@@ -4,7 +4,7 @@
     "crafted_blue_shark": {
       "trigger": "minecraft:recipe_crafted",
       "conditions": {
-        "recipe_id": "crafting:blue_shark"
+        "recipes": "crafting:blue_shark"
       }
     }
   },

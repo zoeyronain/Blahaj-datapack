@@ -154,7 +154,7 @@
       "name": "right pectoral",
       "from": [10, -1, 6],
       "to": [11, 1, 10],
-      "shade": false,
+      "shade_direction_override": "up",
       "rotation": {
         "angle": 22.5,
         "axis": "x",
