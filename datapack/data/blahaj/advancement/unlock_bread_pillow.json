@@ -13,6 +13,6 @@
     }
   },
   "rewards": {
-    "recipes": ["crafting:bread_pillow"]
+    "recipes": ["crafting:bread"]
   }
 }
